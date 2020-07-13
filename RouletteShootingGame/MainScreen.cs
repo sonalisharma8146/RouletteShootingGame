@@ -18,7 +18,7 @@ namespace RouletteShootingGame
 
         Cylinder cylinder;
         SoundPlayer player;
-        int chance, pos,angle;
+        int chance, pos,angle;//variables not in separate class file
         Random random;
         Timer timer;
        
